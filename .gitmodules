@@ -1,0 +1,3 @@
+[submodule "worlds/etrian_odyssey"]
+	path = worlds/etrian_odyssey
+	url = https://github.com/TheMasterZelda/Etrian_Odyssey_1_Archipelago
